@@ -1,6 +1,6 @@
 # JPA & Hibernate: Store Project
 Projeto de estudo dos conceitos de banco de dados relacionados a JPA e Hibernate.
-##Conhecimentos Aplicados
+## Conhecimentos Aplicados
 - Começando com JPA
 - Configurações e EntityManager
 - Mapeando entidades
