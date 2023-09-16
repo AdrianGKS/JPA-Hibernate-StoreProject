@@ -6,3 +6,8 @@ Projeto de estudo dos conceitos de banco de dados relacionados a JPA e Hibernate
 - Mapeando entidades
 - Ciclo de vida de uma entidade
 - Consultas com JPQL
+- Tipos de relacionamentos
+- Consultas avançadas
+- Performance de consultas
+- Criteria API
+- Outros tópicos
